@@ -1,0 +1,51 @@
+body
+{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#main{
+    padding: 50px;
+}
+
+h1{
+    font-weight: bold;
+    color: #40128B;
+}
+
+#inputTxt
+{
+    margin-top: 2px;
+    margin-bottom: 1px;
+    padding: 9px 18px;
+    width: 50%;
+    border-radius: 7px;
+
+    font-size: 15px;
+    border-color: blueviolet;
+}
+
+#subscribeBtn
+{
+    border:none;
+    margin-top: 20px;
+    padding: 10px 21px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    background-color: #001C30;
+}
+
+#email-add
+{
+    color: #191825;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#validity
+{
+    color: red;
+    font-size: 12px;
+    padding-bottom: 10px;
+}

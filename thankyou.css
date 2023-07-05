@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+#thankyou
+{
+    padding: 50px;
+}
+
+h1
+{
+    font-weight: bold;
+    color: #40128B;
+}
+
+#comp{
+  font-weight: bold;
+    
+}
+
+#dismiss-btn
+{
+    border:none;
+    margin-top: 20px;
+    padding: 10px 21px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    background-color: #001C30;
+}
